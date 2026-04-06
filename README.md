@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard Backend
+# 💰 Finance Dashboard System
 
 ## 📌 Overview
 
